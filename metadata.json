@@ -1,0 +1,7 @@
+{
+  "name": "Saad's Tracking Planet",
+  "description": "Interactive 3D Solar System exploration controlled by hand gestures. Explore detailed planets and orbits in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
